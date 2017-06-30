@@ -208,6 +208,9 @@ Since writing this not-awesome-list I've really jumped into learning functional 
     - GitHub: [@bahmutov](https://github.com/bahmutov)
     - Twitter: [@bahmutov](https://twitter.com/bahmutov)
     - Website: [glebbahmutov.com](https://glebbahmutov.com/)
+- Hardy Jones
+    - GitHub: [@joneshf](https://github.com/joneshf)
+    - Twitter: [@st58]https://twitter.com/st58
 - Ian Hofmann-Hicks
     - GitHub: [@evilsoft](https://github.com/evilsoft)
     - Twitter: [@evilsoft](https://twitter.com/evilsoft)
