@@ -227,9 +227,6 @@ I have also seen a number of people choosing to use ES6 classes as an abstractio
     - GitHub: [@jrsinclair](https://github.com/jrsinclair)
     - Twitter: [@jrsinclair](https://twitter.com/jrsinclair)
     - Website: [jrsinclair.com](http://jrsinclair.com/)
-- Jon Gold
-    - GitHub: [@jongold](https://github.com/jongold)
-    - Twitter: [@jongold](https://twitter.com/jongold)
 - Juan Soto
     - GitHub: [@sotojuan](https://github.com/sotojuan)
 - Luke Westby
